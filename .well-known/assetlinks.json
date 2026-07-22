@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ksol97.oneclickgoal",
+      "sha256_cert_fingerprints": [
+        "94:AC:99:45:4A:30:B5:10:AF:FC:66:33:4D:7B:11:B8:7E:88:2E:8E:1B:4A:F1:B5:59:64:D9:EA:14:38:A6:17"
+      ]
+    }
+  }
+]
